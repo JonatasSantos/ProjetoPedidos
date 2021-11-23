@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ProjetoPedidos.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ProjetoPedidos.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ProjetoPedidos.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ProjetoPedidos.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ProjetoPedidos.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ref\ProjetoPedidos.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\bin\Debug\net5.0\ProjetoPedidos.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ref\ProjetoPedidos.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ProjetoPedidos\ProjetoPedidos\obj\Debug\net5.0\ProjetoPedidos.genruntimeconfig.cache
